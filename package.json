@@ -1,0 +1,23 @@
+{
+  "name": "reactchatapp_in_multiplerooms",
+  "version": "1.0.0",
+  "description": "React Multi Room Socket Io Chat App {start app using : node index.js}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "rajkumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "nodemon": "^1.14.11",
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
